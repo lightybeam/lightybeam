@@ -1,1 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightybeam)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" class="1" src="https://github-readme-stats.vercel.app/api?username=lightybeam&count_private=true&show_icons=true&bg_color=0d1117&icon_color=ffffff&text_color=cbcbcb&title_color=cbcbcb&border_color=959595" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightybeam&layout=compact&bg_color=0d1117&icon_color=ffffff&text_color=cbcbcb&title_color=cbcbcb&border_color=959595" />
